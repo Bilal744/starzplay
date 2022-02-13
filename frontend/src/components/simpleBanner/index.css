@@ -1,0 +1,12 @@
+.container {
+	padding: 40px;
+}
+.title {
+	color: white;
+	margin-bottom: 10px;
+}
+.image {
+	padding: 10px !important;
+	width: 100px !important;
+	height: 180px !important;
+}
